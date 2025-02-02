@@ -16,8 +16,8 @@
 ╰────────────- 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Add Video at the End -->
-<video width="100%" controls>
-  <source src="[https://files.catbox.moe/5flhla.mp4](https://files.catbox.moe/xzskgc.mp4)" type="video/mp4">
+<!-- Add gif at the End -->
+<gif width="100%" controls>
+  <source src="[https://files.catbox.moe/5flhla.gif]" type="video/gif">
   2 kodi ka phone h video na chlegi.
-</video>
+</gif>
