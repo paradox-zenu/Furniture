@@ -1,3 +1,4 @@
+
 ## ᴀʙᴏᴜᴛ ㊝┊𝐙ᴇɴɪᴛꜱᴜ
  ʜᴇʏʏ, ɪ'ᴍ ᴊᴜsᴛ ᴀ ʙᴏʏ ғʀᴏᴍ ᴜᴛᴛᴀʀ ᴘʀᴀᴅᴇsʜ ᴡʜᴏ ɪs ᴛʀʏɪɴɢ ᴛᴏ ʟᴇᴀʀɴ sᴏᴍᴇᴛʜɪɴɢ ɴᴇᴡ.  ғᴏʀ ғᴜᴛᴜʀᴇ ᴀɴᴅ ᴍᴀᴋᴇ ᴍʏ sᴋɪʟʟs ɢʀᴏᴡ & ᴜᴘɢʀᴀᴅᴇ 
 <div align="left">
@@ -14,3 +15,9 @@
 
 ╰────────────- 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- Add Video at the End -->
+<video width="100%" controls>
+  <source src="https://files.catbox.moe/wavf37.mp4" type="video/mp4">
+  2 kodi ka phone h video na chlegi.
+</video>
