@@ -13,3 +13,4 @@
 ╰─➣- [![whatsApp](https://img.shields.io/badge/Zenitsu-Whatsapp-green?style=for-the-badge&logo=whatsApp)](https://wa.me/6283863879340) 
 
 ╰────────────- 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
