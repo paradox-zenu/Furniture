@@ -15,8 +15,5 @@
 ╰────────────- 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Direct Video Embed -->
-<video width="100%" height="auto" controls>
-  <source src="https://raw.githubusercontent.com/TonyxTony/web/main/VID_20250202_181333_083.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<!-- Direct GIF Embed -->
+![My GIF](https://raw.githubusercontent.com/TonyxTony/web/main/VID_20250202_181333_083.gif)
