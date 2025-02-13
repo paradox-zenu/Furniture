@@ -18,6 +18,6 @@
 
 <!-- Add Video at the End -->
 <Video width="100%" controls>
-  <source src="[https://files.catbox.moe/5flhla.Video]" type="video/mp4">
+  <source src="[[https://files.catbox.moe/5flhla.Video](https://files.catbox.moe/i6k72s.mp4)]" type="video/mp4">
   2 kodi ka phone h video na chlegi.
 </Video>
