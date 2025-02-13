@@ -1,90 +1,37 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="ᴀ sɪᴍᴘʟᴇ ʙᴏʏ">
-    <meta name="author" content="Zenitsu">
-    <meta property="og:image" content="docs/assets/IMG_20241221_094802_220.jpg">
-    <title>㊝┊𝐙ᴇɴɪᴛꜱᴜ</title>
-
-    <style>
-        body {
-            font-family: 'Courier New', monospace;
-            background-color: #f4f4f9;
-            color: #333;
-            margin: 0;
-            padding: 0;
-            text-align: center;
-        }
-        h1 {
-            font-size: 36px;
-            margin: 20px 0;
-        }
-        .intro {
-            font-size: 20px;
-            font-weight: normal;
-            margin: 20px 0;
-        }
-        .badge-container {
-            margin: 20px 0;
-        }
-        .badge-container a {
-            text-decoration: none;
-            margin: 0 10px;
-        }
-        .badge-container img {
-            max-width: 160px;
-        }
-        .gif-container {
-            margin-top: 30px;
-        }
-        .gif-container img {
-            width: 100%;
-            max-width: 600px;
-        }
-        .header-gif {
-            width: 100%;
-            max-width: 600px;
-        }
-        .divider {
-            border-top: 2px solid #000;
-            margin: 20px 0;
-        }
-        .text-divider {
-            font-size: 24px;
-            font-weight: bold;
-            margin: 20px 0;
-        }
-    </style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="ᴀ sɪᴍᴘʟᴇ ʙᴏʏ">
+  <title>㊝┊𝐙ᴇɴɪᴛꜱᴜ</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jekyll-theme-minimal/1.0.0/jekyll-theme-minimal.min.css">
 </head>
 <body>
 
-    <h1>── 「𝙎𝘼𝙃𝙄𝙇」 ──</h1>
+  <div class="content">
+    <h2>ᴀʙᴏʊᴛ ㊝┊𝐙ᴇɴɪᴛꜱᴜ</h2>
+    <p>ʜᴇʏʏ, ɪ'ᴍ ᴊᴜsᴛ ᴀ ʙᴏʏ ғʀᴏᴍ ᴜᴛᴛᴀʀ ᴘʀᴀᴅᴇsʜ ᴡʜᴏ ɪs ᴛʀʏɪɴɢ ᴛᴏ ʟᴇᴀʀɴ sᴏᴍᴇᴛʜɪɴɢ ɴᴇᴡ. ғᴏʀ ғᴜᴛᴜʀᴇ ᴀɴᴅ ᴍᴀᴋᴇ ᴍʏ sᴋɪʟʟs ɢʀᴏᴡ & ᴜᴘɢʀᴀᴅᴇ</p>
 
-    <p class="intro">Heyyy, I'm just a boy from Uttarp Pradesh who is trying to learn something new for the future and make my skills grow & upgrade.</p>
-
-    <div class="divider"></div>
-
-    <div class="badge-container">
-        <a href="https://t.me/zenitsu_x_thunder_breathing">
-            <img src="https://img.shields.io/badge/Zenitsu-Telegram-blue?style=for-the-badge&logo=telegram" alt="Telegram">
-        </a>
-        <a href="https://www.instagram.com/zenix._.0?igsh=MTBjMTBobXhxanQwYg==">
-            <img src="https://img.shields.io/badge/Zenix-Instagram-red?style=for-the-badge&logo=Instagram" alt="Instagram">
-        </a>
-        <a href="https://wa.me/6283863879340">
-            <img src="https://img.shields.io/badge/Zenitsu-Whatsapp-green?style=for-the-badge&logo=whatsApp" alt="WhatsApp">
-        </a>
+    <div align="left">
+      <img src="https://readme-typing-svg.herokuapp.com?color=000000&center=true&lines=──+「𝙎𝘼𝙃𝙄𝙇」+──&width=120&height=60" alt="Typing SVG">
     </div>
 
-    <div class="gif-container">
-        <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="GIF">
-    </div>
+    <p>╭────────────</p>
 
-    <div class="gif-container">
-        <img class="header-gif" src="https://raw.githubusercontent.com/TonyxTony/web/main/VID_20250202_181333_083.gif" alt="Direct GIF Embed">
-    </div>
+    <p>╰─➣ <a href="https://t.me/zenitsu_x_thunder_breathing" target="_blank"><img src="https://img.shields.io/badge/Zenitsu-Telegram-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"></a></p>
+
+    <p>╰─➣- <a href="https://www.instagram.com/zenix._.0?igsh=MTBjMTBobXhxanQwYg==" target="_blank"><img src="https://img.shields.io/badge/Zenix-Instagram-red?style=for-the-badge&logo=Instagram" alt="Instagram Badge"></a></p>
+
+    <p>╰─➣- <a href="https://wa.me/6283863879340" target="_blank"><img src="https://img.shields.io/badge/Zenitsu-Whatsapp-green?style=for-the-badge&logo=whatsApp" alt="WhatsApp Badge"></a></p>
+
+    <p>╰────────────-</p>
+
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="GIF">
+
+    <p><!-- Direct GIF Embed --></p>
+    <img src="https://raw.githubusercontent.com/TonyxTony/web/main/VID_20250202_181333_083.gif" alt="My GIF">
+  </div>
 
 </body>
 </html>
