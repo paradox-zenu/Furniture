@@ -3,195 +3,79 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tony's Intro</title>
+    <title>Zenitsu</title>
     <style>
-        /* Basic Reset */
-        * {
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f5f5f5;
+            color: #333;
             margin: 0;
             padding: 0;
-            box-sizing: border-box;
         }
-
-        /* Body Style */
-        body {
-            font-family: 'Arial', sans-serif;
-            height: 100vh;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            overflow: hidden;
-            color: white;
-            background: black;
-            position: relative;
-            padding: 0;
-        }
-
-        /* Background Video */
-        video {
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            object-fit: cover;
-            z-index: -1;
-        }
-
-        /* Container Styling */
         .container {
-            text-align: center;
-            max-width: 800px;
-            margin: auto;
+            max-width: 1000px;
+            margin: 0 auto;
             padding: 20px;
-            background-color: rgba(0, 0, 0, 0.5);
-            border-radius: 15px;
-            box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.6);
-            animation: fadeIn 2s ease-in-out;
-        }
-
-        /* Heading */
-        h1 {
-            font-size: 3rem;
-            margin-bottom: 20px;
-            color: #ff4d4d;
-            font-family: 'Arial', sans-serif;
-            font-weight: bold;
-        }
-
-        /* Typewriter effect for intro text */
-        .intro-text {
-            font-size: 1.5rem;
-            margin-bottom: 20px;
-            color: white;
-            font-weight: 400;
-            line-height: 2;
-            white-space: nowrap;
-            overflow: hidden;
-            display: inline-block;
-            border-right: 3px solid #fff;
-            animation: typing 5s steps(50) 1s forwards, blink 0.75s step-end infinite;
-        }
-
-        /* Colorful, typewriter-like writing for each line */
-        .name {
-            color: #ff7e5f;
-        }
-
-        .class {
-            color: #feb47b;
-        }
-
-        .age {
-            color: #00bfff;
-        }
-
-        .state {
-            color: #ff6347;
-        }
-
-        .relationship {
-            color: #8a2be2;
-        }
-
-        .profession {
-            color: #3cb371;
-        }
-
-        .hobby {
-            color: #ff1493;
-        }
-
-        .telegram {
-            color: #0088cc;
-        }
-
-        /* Bold for questions */
-        .question {
-            font-weight: bold;
-        }
-
-        /* Button Styling */
-        .telegram-btn {
-            display: inline-block;
-            background-color: #0088cc;
-            color: white;
-            padding: 15px 30px;
-            border-radius: 50px;
-            text-decoration: none;
-            font-size: 18px;
-            font-weight: bold;
-            margin-top: 30px;
-            transition: transform 0.3s, background-color 0.3s, box-shadow 0.3s;
             text-align: center;
+        }
+        h1 {
+            font-size: 36px;
+            color: #333;
+        }
+        .badge-container {
             display: flex;
             justify-content: center;
-            align-items: center;
+            gap: 15px;
+            margin: 20px 0;
         }
-
-        .telegram-btn:hover {
-            transform: translateY(-5px);
-            background-color: #006fa3;
-            box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+        .badge-container a {
+            text-decoration: none;
         }
-
-        /* Telegram Icon Style */
-        .telegram-btn img {
-            width: 25px;
-            margin-right: 10px;
+        .badge-container img {
+            max-width: 150px;
         }
-
-        /* Fade-in animation for container */
-        @keyframes fadeIn {
-            0% { opacity: 0; }
-            100% { opacity: 1; }
+        .gif-container {
+            display: flex;
+            justify-content: center;
+            margin-top: 30px;
         }
-
-        /* Typewriter animation */
-        @keyframes typing {
-            from {
-                width: 0;
-            }
-            to {
-                width: 100%;
-            }
+        .gif-container img {
+            width: 100%;
+            max-width: 500px;
         }
-
-        /* Blinking cursor effect */
-        @keyframes blink {
-            50% {
-                border-color: transparent;
-            }
+        .intro {
+            font-size: 18px;
+            margin: 20px 0;
         }
     </style>
 </head>
 <body>
 
-    <!-- Background Video -->
-    <video autoplay muted loop>
-        <source src="https://files.catbox.moe/k8uqsu.mp4" type="video/mp4"> <!-- Replace this link with your video link -->
-        Your browser does not support the video tag.
-    </video>
+<div class="container">
+    <h1>── 「𝙎𝘼𝙃𝙄𝙇」 ──</h1>
 
-    <!-- Content Container -->
-    <div class="container">
-        <h1>Hey, I'm Tony!</h1>
+    <p class="intro">Heyyy, I'm just a boy from Uttarp Pradesh who is trying to learn something new for the future and make my skills grow & upgrade.</p>
 
-        <!-- Typewriter Text for Intro -->
-        <div class="intro-text name">My name is Tony</div><br>
-        <div class="intro-text class question">Class: Nursery</div><br>
-        <div class="intro-text age question">Age: Kyu batau</div><br>
-        <div class="intro-text state question">State: Uttar Pradesh</div><br>
-        <div class="intro-text relationship question">Relationship status: Ye baate batai nahi jati</div><br>
-        <div class="intro-text profession question">Profession: Berozgar finding rojgar</div><br>
-        <div class="intro-text hobby question">Hobby: What does it mean?😐</div><br>
-        <div class="intro-text telegram question">Telegram: @xkiller29</div><br>
-
-        <!-- Telegram Button with Logo -->
-        <a href="https://t.me/xkiller29" class="telegram-btn" target="_blank">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram Logo">
-            Contact me on Telegram
+    <div class="badge-container">
+        <a href="https://t.me/zenitsu_x_thunder_breathing">
+            <img src="https://img.shields.io/badge/Zenitsu-Telegram-blue?style=for-the-badge&logo=telegram" alt="Telegram">
+        </a>
+        <a href="https://www.instagram.com/zenix._.0?igsh=MTBjMTBobXhxanQwYg==">
+            <img src="https://img.shields.io/badge/Zenix-Instagram-red?style=for-the-badge&logo=Instagram" alt="Instagram">
+        </a>
+        <a href="https://wa.me/6283863879340">
+            <img src="https://img.shields.io/badge/Zenitsu-Whatsapp-green?style=for-the-badge&logo=whatsApp" alt="Whatsapp">
         </a>
     </div>
+
+    <div class="gif-container">
+        <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="GIF">
+    </div>
+
+    <div class="gif-container">
+        <img src="https://raw.githubusercontent.com/TonyxTony/web/main/VID_20250202_181333_083.gif" alt="Direct GIF Embed">
+    </div>
+</div>
 
 </body>
 </html>
