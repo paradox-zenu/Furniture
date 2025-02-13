@@ -14,27 +14,48 @@
       min-height: 100vh;
       background-color: #f0f0f0;
       margin: 0;
-      padding: 20px;
+      padding: 20px;  /* Add padding to prevent content from touching the edges */
     }
     .content {
       text-align: center;
-      max-width: 800px; 
+      max-width: 800px; /* Limit the width of the content */
       width: 100%;
     }
     img {
-      max-width: 90%; 
+      max-width: 90%; /* Set a max width for the image */
       height: auto;
       margin-top: 20px;
-      border-radius: 10px; 
+      border-radius: 10px; /* Add rounded corners to the image */
+      position: relative;
+      overflow: hidden;
     }
-    video {
-      max-width: 90%; 
-      height: auto;
-      margin-top: 20px;
+    
+    /* Animated border effect for the image */
+    img::before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      border: 2px solid transparent;
       border-radius: 10px;
+      background-image: linear-gradient(45deg, red, yellow, green, cyan, blue, magenta, red);
+      background-size: 400%;
+      animation: borderAnimation 3s linear infinite;
     }
+
+    @keyframes borderAnimation {
+      0% {
+        background-position: 400% 0;
+      }
+      100% {
+        background-position: 0 400%;
+      }
+    }
+
     .large-text {
-      font-size: 1.5em;  
+      font-size: 1.5em;  /* Font size reduced to half */
       font-weight: bold;
       margin-bottom: 20px;
     }
@@ -52,10 +73,24 @@
     <h2>ᴀʙᴏʊᴛ ㊝┊𝐙ᴇɪᴛꜱᴜ</h2>
     <p>ʜᴇʏʏ, ɪ'ᴍ ᴊᴜsᴛ ᴀ ʙᴏʏ ғʀᴏᴍ ᴜᴛᴛᴀʀ ᴘʀᴀᴅᴇsʜ ᴡʜᴏ ɪs ᴛʀʏɪɴɢ ᴛᴏ ʟᴇᴀʀɴ sᴏᴍᴇᴛʜɪɴɢ ɴᴇᴡ. ғᴏʀ ғᴜᴛᴜʀᴇ ᴀɴᴅ ᴍᴀᴋᴇ ᴍʏ sᴋɪʟʟs ɢʀᴏᴡ & ᴜᴘɢʀᴀᴅᴇ</p>
 
-    <div align="center">
+    <div align="left">
       <img src="https://readme-typing-svg.herokuapp.com?color=000000&center=true&lines=──+「𝙎𝘼𝙃𝙄𝙇」+──&width=120&height=60" alt="Typing SVG">
     </div>
+     
+    <div align="left">
+      <img src="https://readme-typing-svg.herokuapp.com?color=000000&center=true&lines=──+「𝙕𝙀𝙉𝙄𝙓」+──&width=120&height=60" alt="Typing SVG">
+    </div>
+        <!-- Video plays automatically, muted -->
+    <video autoplay muted loop>
+      <source src="https://files.catbox.moe/saxiaz.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </div>
 
+</body>
+</html>
+
+  ʏᴏᴜ ᴄᴀɴ ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ ғʀᴏᴍ ʜᴇʀᴇ
     <p>╭────────────</p>
 
     <p>╰─➣ <a href="https://t.me/zenitsu_x_thunder_breathing" target="_blank"><img src="https://img.shields.io/badge/Zenitsu-Telegram-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"></a></p>
