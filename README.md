@@ -1,4 +1,3 @@
-
 ## ᴀʙᴏᴜᴛ ㊝┊𝐙ᴇɴɪᴛꜱᴜ
  ʜᴇʏʏ, ɪ'ᴍ ᴊᴜsᴛ ᴀ ʙᴏʏ ғʀᴏᴍ ᴜᴛᴛᴀʀ ᴘʀᴀᴅᴇsʜ ᴡʜᴏ ɪs ᴛʀʏɪɴɢ ᴛᴏ ʟᴇᴀʀɴ sᴏᴍᴇᴛʜɪɴɢ ɴᴇᴡ.  ғᴏʀ ғᴜᴛᴜʀᴇ ᴀɴᴅ ᴍᴀᴋᴇ ᴍʏ sᴋɪʟʟs ɢʀᴏᴡ & ᴜᴘɢʀᴀᴅᴇ 
 <div align="left">
@@ -13,7 +12,7 @@
 
 ╰─➣[![whatsApp](https://img.shields.io/badge/Zenitsu-Whatsapp-green?style=for-the-badge&logo=whatsApp)]([https://wa.me/](https://wa.me/27740484860)) 
 
-╰─➣[![snapchat](https://img.shields.io/badge/Zenitsu-Snapchat-White?style=for-the-badge&logo=snapchat)](https://www.snapchat.com/add/eren-paradox?share_id=N6HPehFBhyU&locale=en-IN) 
+╰─➣  <a href="https://www.snapchat.com/add/eren-paradox?share_id=N6HPehFBhyU&locale=en-IN" target="_blank"><img src="https://img.shields.io/badge/SnapChat-FFFF00?style=for-the-badge&logo=Snapchat&logoColor=black" target="_blank"></a>
 
 ╰────────────
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -23,3 +22,5 @@
   <source src="[[https://files.catbox.moe/5flhla.Video](https://files.catbox.moe/i6k72s.mp4)]" type="video/mp4">
   2 kodi ka phone h video na chlegi.
 </Video>
+
+<video src="https://files.catbox.moe/5flhla.Video" controls width="100"></video>
